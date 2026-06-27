@@ -1,2 +1,0 @@
-# PYTHON
-Full Course
